@@ -88,15 +88,15 @@ Topicos y Palabras
 - domingo
 
 ### alimentos
-- jugo
-- leche
-- pan
-- manzana
-- naranja, 
 - uva
 - papas
-- tomate
-- lechuga
+- pan
+- manzana
+- pera
+- choclo
+- cebolla
+- jugo
+- leche
 
 ### animales
 - perro
