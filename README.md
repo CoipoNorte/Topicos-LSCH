@@ -20,7 +20,7 @@ Topicos y Palabras
 15. sentimientos
 16. transporte
 
-## Palabras
+## Palabras de los Topicos
 
 ### alfabeto
 - a
@@ -170,13 +170,66 @@ Topicos y Palabras
 - primavera
 
 ### familia
-- 
+- familia (nucleo)
+- hombre
+- mujer
+- papa
+- mama
+- hijo
+- guagua
+- hermano (a)
+- primo (a)
+- niño (a)
+- sobrino (a)
+- abuelo (a)
+- nieto (a)
+- suegro (a)
+- tio
+- tia
+- soltero
+- casado
+- mayor
+- menor
 
 ### hogar
-- 
+- casa
+- hogar
+- departamento
+- subterraneo
+- comedor
+- dormitorio
+- living
+- baño
+- cocina
+- pieza
+- mesa
+- sillon
+- escalera
+- pasillo
+- silla
+- cama
+- lavamanos
+- escritorio
+- puerta
+- ventana
+- ducha
 
 ### interrogativos
-- 
+- cuantos
+- cuanto tiempo
+- con quien
+- con que
+- cuanto
+- quien
+- donde
+- para que
+- cual
+- de que
+- hasta donde
+- como
+- que numero
+- quien
+- que
 
 ### meses
 - enero
@@ -206,10 +259,35 @@ Topicos y Palabras
 - 10
 
 ### pronombres
-- 
+- yo
+- tu
+- el / ella
+- ellos / ellas
+- nosotros / nosotras
+- usted
+- ustedes
 
 ### saludos
-- 
+- hola
+- buenos dias
+- chao
+- buenas tardes
+- buenas noches
+- bien
+- nombre
+- mal
+- como estas
+- mas o menos
+- si
+- no
+- cual apodo
+- que trabajar
+- yo trabajar
+- donde estudiar
+- yo estudiar
+- donde vivir
+- yo vivir
+- cuantos años tener tu
 
 ### semana
 - lunes
