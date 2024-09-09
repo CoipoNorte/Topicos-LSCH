@@ -115,11 +115,10 @@ Topicos y Palabras
 ### escuela
 - alumno
 - profesor
-- sala
 - libro
 - lápiz
 
-### estaciones
+### estaciones (MODELO MALO)
 - verano
 - invierno
 - primavera
