@@ -124,21 +124,21 @@ Topicos y Palabras
 - primavera
 - otoño
 
-### familia (FALTA ABAJO)
+### familia 
 - papá
 - mamá
 - hijo
 - hermano
 - abuelo
 
-### hogar
+### hogar (MODELO MALO)
 - casa
 - comedor
 - dormitorio
 - cocina
 - baño
 
-### interrogativos
+### interrogativos 
 - cuánto
 - quién
 - dónde
